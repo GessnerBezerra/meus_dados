@@ -2,7 +2,7 @@
 ## **Repositório dedicado aos meus dados pessoais.**
 
 <p align="center">
-<img src="https://i.imgur.com/dUzvxw7.gif">
+<img src="https://cdn.dribbble.com/users/4385214/screenshots/10639794/2gui.gif">
   
   ### 👨🏻‍💻 Technologies:
 
